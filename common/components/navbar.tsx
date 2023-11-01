@@ -76,7 +76,7 @@ export default function Navbar() {
             {brandLink(TbBrandInstagram, 'https://www.instagram.com/rick.w.gaming')}
             {brandLink(TbBrandGithub, 'https://www.github.com/WarrenAja')}
             {brandLink(TbBrandYoutube, 'https://www.youtube.com/@Naelisandy')}
-            {brandLink(TbBrandLinkedin, 'https://www.linkedin.com/in/taufiiqul-hakim2007')}
+        {/*    {brandLink(TbBrandLinkedin, 'https://www.linkedin.com/in/taufiiqul-hakim2007')} */}
             {brandLink(TbBrandTiktok, 'https://www.tiktok.com/@pionzr')}
           </div>
         </li>
