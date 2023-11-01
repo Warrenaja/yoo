@@ -19,7 +19,7 @@ export const Projects: Array<Project> = [
     title: 'Personal Website',
     description: 'I created personal website for my portfolio.',
     urlDirect: '#',
-    srcImage: '/img/projects/personal-website.webp',
+    srcImage: '/img/projects/personal-website..webp',
     icons: [
       {
         SvgIcon: SiNextdotjs,
@@ -46,7 +46,7 @@ export const Projects: Array<Project> = [
   {
     title: 'Lunar UX',
     description: 'I created a website for a company that sells services.',
-    urlDirect: 'https://lunar-ux.vercel.app',
+    urlDirect: '/',
     srcImage: '/img/projects/lunar-ux.webp',
     icons: [
       {
@@ -69,7 +69,7 @@ export const Projects: Array<Project> = [
   {
     title: 'Hardware Harmony',
     description: 'I created a website for a e-commerce that sells products without database.',
-    urlDirect: 'https://hardware-harmony.vercel.app',
+    urlDirect: '/',
     srcImage: '/img/projects/hardware-harmony.webp',
     icons: [
       {
