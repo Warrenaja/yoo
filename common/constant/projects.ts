@@ -18,7 +18,7 @@ export const Projects: Array<Project> = [
   {
     title: 'Personal Website',
     description: 'I created personal website for my portfolio.',
-    urlDirect: 'https://fiqtor.xyz',
+    urlDirect: '#',
     srcImage: '/img/projects/personal-website.webp',
     icons: [
       {
