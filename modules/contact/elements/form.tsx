@@ -10,7 +10,7 @@ export default function Form() {
                 animate={{ opacity: 1, filter: 'blur(0px)', y: 0 }}
                 transition={{ delay: 0.25 }}
             >
-                <form action="https://formsubmit.co/taufiq07326@gmail.com" method='POST'
+                <form action="https://formsubmit.co/rickwarren903@gmail.com" method='POST'
                     className='max-w-sm w-full flex flex-col gap-4 text-stone-600 dark:text-neutral-300'>
                     <input type="hidden" name="_template" value="table" />
                     <input type="hidden" name="_blacklist" value="spammy pattern, banned term, phrase" />
