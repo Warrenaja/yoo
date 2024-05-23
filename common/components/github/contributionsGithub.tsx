@@ -73,7 +73,7 @@ export async function Contributions() {
 }
 
 async function getContributions() {
-  const token = process.env.GITHUB_TOKEN;
+  const token = METADATA.githubToken;
   const username = METADATA.githubUsername;
   const headers = {
     'Authorization': `bearer ${token}`,
