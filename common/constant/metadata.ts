@@ -25,5 +25,5 @@ export const METADATA = {
   exTitle: '| WarrenAja',
   profile: 'https://avatars.githubusercontent.com/u/101197703?u=a8e683a2a0ac44b13702ba8da5226340a65e2bd7&v=4',
   githubUsername: 'Warrenaja',
-  githubToken: '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',
+  githubToken: "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",
 };
