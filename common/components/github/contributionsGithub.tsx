@@ -73,7 +73,7 @@ export async function Contributions() {
 }
 
 async function getContributions() {
-  const token = METADATA.githubToken;
+  const token = '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';
   const username = METADATA.githubUsername;
   const headers = {
     'Authorization': `bearer ${token}`,
